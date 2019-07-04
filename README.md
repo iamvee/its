@@ -1,5 +1,4 @@
-# it's
-
+# its
 monty python's flying circus. Python Problems + Solutions
 
 ![img](./static/img/monty.jpg)
@@ -9,12 +8,12 @@ Table of Contents
 
 * [lists](./src/lists)
 * [functions](./src/functions)
-* [recursive](./src/recursive)
-    * [hanoi tower](./src/recursive/hanoi/README.md)
+    * [recursive](./src/functions/recursive)
+        * [hanoi tower](./src/functions/recursive/hanoi/README.md)
 * [decorators](./src/decorators)
     * [simple logger](./src/decorators/simple.logger/README.md)
 * [Object Oriented Programming](./src/oop)
-    * [Polynomial](./src/oop/polynomial/README.md)
+    * [Object Oriented Programming](./src/oop/polynomial/README.md)
 
 ## third party 
 * [Qt]()
